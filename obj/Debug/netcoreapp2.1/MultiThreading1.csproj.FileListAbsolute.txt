@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\bin\Debug\netcoreapp2.1\MultiThreading1.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\bin\Debug\netcoreapp2.1\MultiThreading1.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\bin\Debug\netcoreapp2.1\MultiThreading1.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\bin\Debug\netcoreapp2.1\MultiThreading1.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\bin\Debug\netcoreapp2.1\MultiThreading1.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\obj\Debug\netcoreapp2.1\MultiThreading1.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\obj\Debug\netcoreapp2.1\MultiThreading1.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\obj\Debug\netcoreapp2.1\MultiThreading1.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\obj\Debug\netcoreapp2.1\MultiThreading1.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\obj\Debug\netcoreapp2.1\MultiThreading1.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\MultiThreading1\obj\Debug\netcoreapp2.1\MultiThreading1.pdb
